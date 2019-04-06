@@ -1,0 +1,7 @@
+# directories
+.idea/
+out/
+node_modules/
+
+# files
+package.json
