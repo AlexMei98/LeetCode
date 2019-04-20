@@ -1,12 +1,13 @@
 package com.rainytiger.www;
 
-import com.rainytiger.www.LengthOfLongestSubstring.LengthOfLongestSubstring;
+import com.rainytiger.www.FindMedianSortedArrays.FindMedianSortedArrays;
 
 public class Main {
 
     public static void main(String[] args) {
-        LengthOfLongestSubstring solution = new LengthOfLongestSubstring();
-        System.out.println(solution.lengthOfLongestSubstring("fdsafdsaasdfghjkldsadsafdsa"));
+        FindMedianSortedArrays f = new FindMedianSortedArrays();
+        System.out.println(f.findMedianSortedArrays(new int[]{3}, new int[]{2, 4}
+        ));
     }
 
 }
