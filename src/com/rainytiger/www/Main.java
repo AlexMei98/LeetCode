@@ -1,13 +1,12 @@
 package com.rainytiger.www;
 
-import com.rainytiger.www.FindMedianSortedArrays.FindMedianSortedArrays;
+import com.rainytiger.www.LongestPalindrome.LongestPalindrome;
 
 public class Main {
 
     public static void main(String[] args) {
-        FindMedianSortedArrays f = new FindMedianSortedArrays();
-        System.out.println(f.findMedianSortedArrays(new int[]{3}, new int[]{2, 4}
-        ));
+        LongestPalindrome solution = new LongestPalindrome();
+        System.out.print(solution.longestPalindrome("asdfghhgfdsa"));
     }
 
 }
