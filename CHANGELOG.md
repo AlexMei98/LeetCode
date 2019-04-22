@@ -1,4 +1,4 @@
-#  (2019-04-20)
+#  (2019-04-22)
 
 
 ### Features
@@ -13,10 +13,13 @@
 * **problem:** Longest Palindromic Substring ([16324f1](https://github.com/MRuihoo/LeetCode/commit/16324f1))
 * **problem:** Longest Substring Without Repeating Characters ([efd4015](https://github.com/MRuihoo/LeetCode/commit/efd4015))
 * **problem:** Median of Two Sorted Arrays ([4f120af](https://github.com/MRuihoo/LeetCode/commit/4f120af))
+* **problem:** N-Queens ([67fc5f2](https://github.com/MRuihoo/LeetCode/commit/67fc5f2))
 * **problem:** Palindrome Number ([cebcf8a](https://github.com/MRuihoo/LeetCode/commit/cebcf8a))
 * **problem:** Reverse Integer ([5e7ae7d](https://github.com/MRuihoo/LeetCode/commit/5e7ae7d))
 * **problem:** String to Integer ([a21c8c7](https://github.com/MRuihoo/LeetCode/commit/a21c8c7))
+* **problem:** Teemo Attacking ([b4e5112](https://github.com/MRuihoo/LeetCode/commit/b4e5112))
 * **problem:** Two Sum ([42cee3b](https://github.com/MRuihoo/LeetCode/commit/42cee3b))
+* **problem:** Two Sum IV ([e5190b4](https://github.com/MRuihoo/LeetCode/commit/e5190b4))
 * **problem:** Zig Zag Conversion ([bda1756](https://github.com/MRuihoo/LeetCode/commit/bda1756))
 
 
