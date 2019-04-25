@@ -1,4 +1,4 @@
-#  (2019-04-22)
+#  (2019-04-25)
 
 
 ### Features
@@ -20,6 +20,8 @@
 * **problem:** Teemo Attacking ([b4e5112](https://github.com/MRuihoo/LeetCode/commit/b4e5112))
 * **problem:** Two Sum ([42cee3b](https://github.com/MRuihoo/LeetCode/commit/42cee3b))
 * **problem:** Two Sum IV ([e5190b4](https://github.com/MRuihoo/LeetCode/commit/e5190b4))
+* **problem:** Word Break ([1c1d294](https://github.com/MRuihoo/LeetCode/commit/1c1d294))
+* **problem:** Word Break 2 ([ca2c7dd](https://github.com/MRuihoo/LeetCode/commit/ca2c7dd))
 * **problem:** Zig Zag Conversion ([bda1756](https://github.com/MRuihoo/LeetCode/commit/bda1756))
 
 
