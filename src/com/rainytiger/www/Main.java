@@ -1,6 +1,6 @@
 package com.rainytiger.www;
 
-import com.rainytiger.www.WordBreak.WordBreak;
+import com.rainytiger.www.WordBreak.WordBreak2;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -8,7 +8,7 @@ import java.util.Arrays;
 public class Main {
 
     public static void main(String[] args) {
-        WordBreak wordBreak = new WordBreak();
+        WordBreak2 wordBreak = new WordBreak2();
         System.out.println(wordBreak.wordBreak(
                 "pineapplepenapple",
                 new ArrayList<>(Arrays.asList("pine", "pineapple", "apple", "pen", "applepen"))
