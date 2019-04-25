@@ -1,18 +1,12 @@
 package com.rainytiger.www;
 
-import com.rainytiger.www.WordBreak.WordBreak2;
-
-import java.util.ArrayList;
-import java.util.Arrays;
+import com.rainytiger.www.NonDecreasingArray.NonDecreasingArray;
 
 public class Main {
 
     public static void main(String[] args) {
-        WordBreak2 wordBreak = new WordBreak2();
-        System.out.println(wordBreak.wordBreak(
-                "pineapplepenapple",
-                new ArrayList<>(Arrays.asList("pine", "pineapple", "apple", "pen", "applepen"))
-        ));
+        NonDecreasingArray nonDecreasingArray = new NonDecreasingArray();
+        System.out.println(nonDecreasingArray.checkPossibility(new int[]{1, 2, 3}));
     }
 
 }
