@@ -1,12 +1,18 @@
 package com.rainytiger.www;
 
-import com.rainytiger.www.NonDecreasingArray.NonDecreasingArray;
+import com.rainytiger.www.MinimumIndexSumOfTwoLists.MinimumIndexSumOfTwoLists;
 
 public class Main {
 
     public static void main(String[] args) {
-        NonDecreasingArray nonDecreasingArray = new NonDecreasingArray();
-        System.out.println(nonDecreasingArray.checkPossibility(new int[]{1, 2, 3}));
+        MinimumIndexSumOfTwoLists x = new MinimumIndexSumOfTwoLists();
+        String[] ret = x.findRestaurant(
+                new String[]{"Shogun"},
+                new String[]{"Shogun"}
+        );
+        for (String s : ret) {
+            System.out.println(s);
+        }
     }
 
 }
